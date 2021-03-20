@@ -4,25 +4,22 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: DGTL.TECH Website
+    url: https://dgtl.tech
+  - name: moon.dgtlnet.com
+    url: https://moon.dgtlnet.com
+  - name: Network Block List
+    url: https://networkbl.com/
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
+  - name: HW20
     url: $SECRET_SITE
   - name: TCP ping
     url: 1.1.1.1
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: uptime.dgtl.tech
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
@@ -32,8 +29,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: DGTL.TECH
+      href: https://dgtl.tech
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
