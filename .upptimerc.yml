@@ -13,7 +13,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: HW20 Node
-    url: $HW20_SITE
+    url: $HW20_URL
   - name: Mymail Node [RU]
     url: $MYMAIL_RU_SITE
   - name: TCP ping
