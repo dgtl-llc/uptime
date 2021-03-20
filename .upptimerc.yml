@@ -10,9 +10,11 @@ sites:
     url: https://moon.dgtlnet.com
   - name: Network Block List
     url: https://networkbl.com/
-  - name: HW20 Node
-    url: $HW20_URL
-  - name: Mymail Node [RU]
+  - name: Billing system - DGTL TECH UK
+    url: $BILL_URL
+  - name: Billing system - DGTL Technologies LLC
+    url: $BILLING_URL
+  - name: MyMail Node [RU]
     url: $MYMAIL_RU_SITE
   - name: TCP ping
     url: 1.1.1.1
