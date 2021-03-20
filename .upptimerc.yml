@@ -1,11 +1,11 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: dgtl-llc # Your GitHub username
+repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
   - name: DGTL.TECH Website
-    url: https://dgtl.tech
+    url: $CDN_DGTLTECH
   - name: moon.dgtlnet.com
     url: https://moon.dgtlnet.com
   - name: Network Block List
