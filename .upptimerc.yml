@@ -23,7 +23,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: uptime.dgtl.tech
+  cname: status.dgtl.tech
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://dgtl.tech/img/22e41419c90bf774e9f50bf7736821db.png
