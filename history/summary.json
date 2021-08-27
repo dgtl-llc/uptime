@@ -94,7 +94,7 @@
     "url": "$MYMAIL_RU_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "my-mail-node-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
