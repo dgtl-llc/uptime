@@ -1,7 +1,7 @@
 url: $CDN_DGTLTECH
-status: up
-code: 200
-responseTime: 976
-lastUpdated: 2021-08-27T23:10:29.695Z
+status: down
+code: 502
+responseTime: 1290
+lastUpdated: 2021-08-28T17:30:13.198Z
 startTime: Sat Mar 20 2021 11:58:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
